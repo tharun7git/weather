@@ -1,0 +1,27 @@
+.App{
+  text-align: center;
+}
+.App-header {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  background-color: #282c34;
+  padding: 30px;
+}
+
+.App-header li {
+  margin: 0 130px; /* Increase horizontal margin to 20px for more gap */
+}
+
+.App-header a {
+  font-size: 20px;
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+}
+
+.App-header a:hover {
+  text-decoration: none;
+  color: rgb(89, 177, 89);
+}
